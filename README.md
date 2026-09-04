@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Development**
 - 🌱 I’m currently learning **Go (Golang)**
-- 💬 Ask me about **JavaScript, React, Node.js & WordPress**
-- 📄 Explore My Portfolio: [Portfolio Link](https://example.com) | My [Resume](https://example.com)
+- 💬 Ask me about **JavaScript, React, Node.js**
 - 📬 Feel free to reach out: **ovihasanuzzaman684@gmail.com**
 
 ---
@@ -58,10 +57,6 @@
 
 ### 📊 GitHub Statistics:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ovi-web&show_icons=true&theme=dark" alt="ovi-web stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovi-web&layout=compact&theme=dark" alt="ovi-web top langs" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovi-web&theme=dark" alt="ovi-web streak" />
