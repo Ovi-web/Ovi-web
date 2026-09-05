@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin-right: 15px; border-radius: 8px;"/>
   <img src="https://github.com/Ovi-web/Ovi-web/blob/main/nextjs.svg" alt="nextjs" width="40" height="40" style="margin-right: 15px; border-radius: 8px; filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="margin-right: 15px; border-radius: 8px;"/>
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg](https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png)" alt="express" width="40" height="40" style="margin-right: 15px; border-radius: 8px; filter: invert(1);"/>
+  <img src="https://github.com/Ovi-web/Ovi-web/blob/main/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.svg" alt="express" width="40" height="40" style="margin-right: 15px; border-radius: 8px; filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin-right: 15px; border-radius: 8px;"/>
 </p>
 
